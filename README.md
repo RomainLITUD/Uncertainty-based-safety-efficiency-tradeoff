@@ -19,5 +19,7 @@
 ### Model Training
 
 * Run the `TrainingModels.ipynb` to train the proposed model.
+* The pre-trained model is in the folder `pretrain`. The encoder and decoder can be directly used.
 
- ----- to be finished before 1st June -----
+### Trade-off relationship studies.
+-TBC
