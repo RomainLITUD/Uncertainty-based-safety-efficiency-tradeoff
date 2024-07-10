@@ -22,4 +22,5 @@
 * The pre-trained model is in the folder `pretrain`. The encoder and decoder can be directly used.
 
 ### Trade-off relationship studies.
--TBC
+
+-The final published version uses a different hybrid method (both IDM simulation and geometry computation), will be updated soon.
